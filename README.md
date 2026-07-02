@@ -268,19 +268,20 @@ python-single-db-rag-assistant/
 
 ### Home Page
 
-(Add Screenshot)
+<img width="1488" height="820" alt="image" src="https://github.com/user-attachments/assets/1230358e-3a12-4781-b8e4-cd89838a0215" />
 
----
 
 ### Asking a Question
 
-(Add Screenshot)
+<img width="1152" height="701" alt="image" src="https://github.com/user-attachments/assets/d66e81fb-2729-4911-b6f2-ce6e1a9aa763" />
+
 
 ---
 
 ### AI Response
 
-(Add Screenshot)
+<img width="1091" height="756" alt="image" src="https://github.com/user-attachments/assets/6701dfbf-7189-4924-939c-a63205275bc9" />
+
 
 ---
 
