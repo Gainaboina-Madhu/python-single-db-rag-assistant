@@ -345,7 +345,7 @@ This project addresses that limitation by retrieving relevant information from a
 
 # 👨‍💻 Author
 
-**Your Name**
+Name: Gainaboina Madhu
 
 GitHub:
 https://github.com/yourusername
