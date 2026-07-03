@@ -347,12 +347,6 @@ This project addresses that limitation by retrieving relevant information from a
 
 Name: Gainaboina Madhu
 
-GitHub:
-https://github.com/yourusername
-
-LinkedIn:
-https://linkedin.com/in/yourprofile
-
 ---
 
 # 📜 License
